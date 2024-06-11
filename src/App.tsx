@@ -1,9 +1,10 @@
+import Buttons from "./components/Buttons/Buttons";
 
 
 const App = () => {
   return (
     <>
-      Hello World!
+      <Buttons />
     </>
   );
 };
